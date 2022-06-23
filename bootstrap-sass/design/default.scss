@@ -1,0 +1,12 @@
+// scss-docs-start spacer-variables-maps
+$spacer: 1rem;
+
+$spacers: (
+  6: $spacer * 5,
+);
+
+
+$grid-breakpoints: (
+  xxl: 1600px,
+
+)
